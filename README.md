@@ -8,7 +8,7 @@
 | [Day 4](./04)  | :star: :star: | 
 | [Day 5](./05)  | :star: :star: | 
 | [Day 6](./06)  | :star: :star: | 
-| Day 7  | | 
+| [Day 7](./07)  | :star: :star: | 
 | Day 8  | | 
 | Day 9  | | 
 | Day 10 | | 
